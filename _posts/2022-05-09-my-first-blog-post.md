@@ -1,5 +1,5 @@
 ---
-title: Hi, I'm Benedikt
+title: "Hi, I'm Benedikt"
 date: 2022-05-09
 ---
 
